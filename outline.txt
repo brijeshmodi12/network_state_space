@@ -1,0 +1,10 @@
+a)	Experimental Paradigm / Raw traces samples / Location of probe and tetrodes (histology)
+b)	Construction of network state space / Using cartoon and actual data
+c)	Occupancy and density map of state space
+d)	Distribution of oscillators on state space 
+e)	REM and Non-REM ratio overlay (along with raw traces and strict classification)
+f)	Median power variation across trials 
+g)	State dependent coupling between oscillators (correlation matrix)
+h)	Speed of coverage and its variations across rem, non-rem and awake bouts
+i)	Network flow in various bins, transition matrix and alterations in transition matrix across trials
+j)	Framework Application: Cell firing overlay on state space and sparsity-based grouping of cell’s signature on sleep state space

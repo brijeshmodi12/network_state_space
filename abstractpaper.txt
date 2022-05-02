@@ -1,0 +1,7 @@
+Oscill ations occurring simultaneously in a given area represent a physiological unit of different brain states, supporting distinct behaviors. To establish how various oscillatory components simultaneously changes during distinct stages of sleep and wakefulness, we describe an analytical method for constructing the state space of hippocampal oscillations.  This approach revealed additional insights on state dependent nature of cross frequency interactions. By examining the co-occurrence patterns of oscillations on the state space, we uncovered the presence of network constraints during wakefulness as compared to sleep. 
+
+
+
+This multivariate analytical framework provides an improvement over classical bivariate pipelines, for investigating oscillations and neural firing, thereby allowing to factor-in the actual complexity 
+
+to study how simultaneously occurring oscillations, contribute to build up the network state space of the CA1 hippocampal region.. Furthermore, investigating state transitions during sleep revealed alterations in transition probabilities after exploration of a novel arena, suggesting the existence of network dependent plasticity processes. Moreover, we explored how firing activity of different neurons during navigation was distinctly tuned to different set of simultaneously occurring oscillations during sleep. Finally, we unveiled how the network organization was disrupted in an animal model of autism. 
